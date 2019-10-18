@@ -1,0 +1,2 @@
+recursive-include ipyexperimenter/static *.*
+include ipyexperimenter.json
